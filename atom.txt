@@ -1,0 +1,12 @@
+ctrl + \ : toggle tree view
+ctrl + shift + p : atom command line
+
+[multi cursor]
+selection -> ctrl + d * n -> [end]
+
+[install ammet]
+ctrl + shift + p : atom command line
+type [install package]
+search packages : emmet -> install
+
+
