@@ -1,3 +1,4 @@
+//Quick text editor
 data:text/html, <html contenteditable>
 
 //Facebook search
