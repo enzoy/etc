@@ -1,0 +1,10 @@
+# Shell folders
+shell:Profile / shell:Desktop / shell:Personal / shell:Downloads / shell:PhotoAlbums / shell:Playlists
+shell:Favorites / shell:Contacts / shell:Fonts / shell:Default Gadgets / shell:Gadgets / shell:GameTasks
+shell:Games / shell:SavedGames / shell:Searches / shell:History / shell:Links / shell:Recent
+shell:Quick Launch / shell:RecycleBinFolder / shell:AppData / shell:Local AppData / shell:LocalAppDataLow
+shell:Cache / shell:Cookies / shell:Common Administrative Tools / shell:Common AppData / shell:Windows / shell:System
+shell:Programs / shell:ProgramFiles / shell:ProgramFilesCommon / shell:ProgramFilesX86 / shell:ProgramFilesCommonX86
+
+# Settings for CMD window running shortcut.
+%LOCALAPPDATA%\Microsoft\Windows\WinX\Group3\
