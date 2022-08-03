@@ -6,5 +6,5 @@ shell:Quick Launch / shell:RecycleBinFolder / shell:AppData / shell:Local AppDat
 shell:Cache / shell:Cookies / shell:Common Administrative Tools / shell:Common AppData / shell:Windows / shell:System
 shell:Programs / shell:ProgramFiles / shell:ProgramFilesCommon / shell:ProgramFilesX86 / shell:ProgramFilesCommonX86
 
-# Settings for CMD window running shortcut.
+# Settings for hotkey "win+x" menu, group1/group2/group3.
 %LOCALAPPDATA%\Microsoft\Windows\WinX\Group3\
